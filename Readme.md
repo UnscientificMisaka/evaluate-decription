@@ -21,14 +21,14 @@ Express + mongodb + redis(暂时还没写到缓存)
 手机扫一扫  
 ![二维码](./QRcode.png)
 ## ScreenShots
-![截图1](./1.png =533x322)
-![截图1](./2.png =533x322)
-![截图1](./3.png =533x322)
-![截图1](./4.png =533x322)
-![截图1](./5.png =533x322)
-![截图1](./6.png =533x322)
-![截图1](./7.png =533x322)
-![截图1](./8.png =533x322)
+<img src="./1.png" width="50%" height="50%"/>
+<img src="./2.png" width="50%" height="50%"/>
+<img src="./3.png" width="50%" height="50%"/>
+<img src="./4.png" width="50%" height="50%"/>
+<img src="./5.png" width="50%" height="50%"/>
+<img src="./6.png" width="50%" height="50%"/>
+<img src="./7.png" width="50%" height="50%"/>
+<img src="./8.png" width="50%" height="50%"/>
 
 ## Todo
 * [x] 登录/注册/忘记密码
