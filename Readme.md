@@ -19,8 +19,8 @@ PC端: stylus换成了less stylus缩进有点烦...
 [一些反思心得](./Rethink.md)
 
 ## 线上地址
-方便调试没build打包发布，仍然是开发模式，首屏时间超长的哇, 
-
+方便调试没build打包发布，仍然是开发模式，首屏时间超长的哇  
+跪了，刚刚才发现debug模式app.js未打包有11.2M,我只额外加了element ui和echarts...
 <b>免注册测试账号: 1@qq.com</b>  
 <b>密码： 123  </b>  
 #### 目前施工现场，顺便写了个爬虫抓题目:[请戳我](https://github.com/UnscientificMisaka/Spider)
